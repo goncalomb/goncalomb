@@ -1,7 +1,7 @@
 ### Hello!
 
 - 🌐 [goncalomb.com](https://goncalomb.com/)
-- 💬 <a rel="me" href="https://fosstodon.org/@goncalomb">@goncalomb@fosstodon.org</a>
+- 💬 <a rel="me" href="https://fosstodon.org/@goncalomb">goncalomb[at]fosstodon.org</a>
 - 📫 hello@goncalomb.com
 
 You can find my projects on [goncalomb.com](https://goncalomb.com/) and [here on GitHub](https://github.com/goncalomb?tab=repositories&type=source) (source repositories).
